@@ -1,0 +1,4 @@
+{
+  "description1": "the first time I run `npm test`, only output main.js. expected to output main.js and index.json",
+  "description2": "when I modify index.json, invoke rebuild. the index.json can emit correctly"
+}
